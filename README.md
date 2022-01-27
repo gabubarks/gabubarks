@@ -1,16 +1,22 @@
 ```
-floofy samoyed boye
-bark bark bark bark bark
-follow me on twitter for extremely furry content
+a furry is typing on a keyboard.
+you can only see "OwO UwU" repeated
+on the screen.
 
-[Dropped Items]
-  Coffee (25%)
-  Mechanical Keyboard (3%)
+[information]
+pronouns: he/him
+species: samoyed dog
+age: 30
 
-[Details]
-  🖥️ Software Developer
-  🎮 Retro & indie gamer
-  🐱 Cat owner
-  🥤 Soda drinker (no alcohol)
-  💤 Always sleepy
+[dropped items]
+ - ball of floof (99%)
+ - coffee (25%)
+ - mech. keyboard (3%)
+
+[traits]
+  🖥️ software developer
+  🎮 retro & indie gamer
+  🐱 cat owner
+  🥤 soda drinker (no alcohol)
+  💤 always sleepy
 ```
